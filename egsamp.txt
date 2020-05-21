@@ -1,0 +1,3 @@
+i am first line
+this is newly edited file
+lets we that changes made in it..
